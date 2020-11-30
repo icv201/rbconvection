@@ -1,5 +1,3 @@
-''' Waiting for Christian to reply to this, with code amendment or confirmation
-	that one of these methods is the right one for obtaining the Nusselt Number. '''
 
 # System Imports
 import os
